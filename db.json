@@ -3,27 +3,51 @@
   "tasks":[
       {
           "id": 1,
-          "title": "Task 1",
-          "description": "Description for task 1",
-          "location": "Valletta",
-          "date": "1st of Jan",
-          "time": "12.00"
+          "title": "Food shopping",
+          "description": "Go buy some food from the the Convenience Shop",
+          "location": "Ħaż-Żebbuġ",
+          "date": "5th of Dec",
+          "time": "09.00"
         },
         {
           "id": 2,
-          "title": "Task 2",
-          "description": "Description for task 2",
-          "location": "Valletta",
-          "date": "1st of Jan",
-          "time": "12.00"
+          "title": "Cloth Shopping",
+          "description": "Go buy some clothes from the Centro Moda",
+          "location": "Fgura",
+          "date": "6th of Dec",
+          "time": "11:30"
         },
         {
           "id": 3,
-          "title": "Task 3",
-          "description": "Description for task 3",
-          "location": "Valletta",
-          "date": "1st of Jan",
+          "title": "Buying a ladder",
+          "description": "Go buy a ladder from London Ironmongery",
+          "location": "Paola",
+          "date": "7th of Dec",
           "time": "12.00"
+        }
+          {
+          "id": 4,
+          "title": "Pet supplies shopping",
+          "description": "Go buy dog food from the the Agri and Pet Supplies",
+          "location": "Victoria",
+          "date": "7th of Dec",
+          "time": "14:00"
+        },
+        {
+          "id": 5,
+          "title": "Workout",
+          "description": "Go to the gym at Sky Spirit Fitness Lounge",
+          "location": "Luqa",
+          "date": "12th of Dec",
+          "time": "09:30"
+        },
+        {
+          "id": 6,
+          "title": "Swimming",
+          "description": "Go for a swim at Hondoq Bay",
+          "location": "Qala",
+          "date": "1st of Aug",
+          "time": "13:30"
         }
   ]
 }
